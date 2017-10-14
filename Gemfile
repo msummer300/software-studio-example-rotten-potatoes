@@ -47,3 +47,5 @@ end
 
 #use Haml for templates
 gem 'haml'
+
+gem 'pg', '~> 0.20.0'

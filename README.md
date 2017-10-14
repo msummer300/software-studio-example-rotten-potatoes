@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -23,7 +22,3 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
-=======
-# software-studio-example-rotten-potatoes
-I'm trying to figure out how to get heroku to work
->>>>>>> 21d951eb2ef97fea3e00d64a0f27de98bec51e2b
